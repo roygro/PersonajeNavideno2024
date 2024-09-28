@@ -27,8 +27,8 @@ se encenderan los ojos al momento que gire la cabeza e igualmente al girar la ca
 |--|--|
 |Thonny|4.1.6|
 |Arduino IDE|2.3.2|
-|Fritzing|
-|Node-RED|
+|Fritzing|1.0.3|
+|Node-RED|3.1|
 |TinkerCAD|
 |...||
 
